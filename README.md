@@ -38,6 +38,4 @@ cd KnightVsDragons
 javac -d bin src/*.java
 
 # Run (use the correct main class)
-java -cp bin Main
-# OR if your main class is PixelGameLauncher:
-# java -cp bin PixelGameLauncher
+java -cp bin PixelGameLauncher
